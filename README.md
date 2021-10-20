@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @saurabhkakade21
-- 👀 I’m interested in computer programming in C, C++, Python and Java. 
-- 🌱 Recently finished learning introduction to Artificial intelligence, Machine Learning, Large scale data structure and infrastructures, Open source software, Applied cryptography, Introduction to parallel programming, Embedded system testing, and Statistics in Norther Arizona University.
+- 👀 I’m interested in computer programming languages like C, C++, Python and Java. 
+- 🌱 Recently finished learning introduction to Artificial intelligence, Machine Learning, Large scale data structure and infrastructures, Open source software, Applied cryptography, Introduction to parallel programming, Embedded system testing, and Statistics from Northern Arizona University, Flagstaff, AZ.
 - 🌱 I’m currently learning Computer Networks, Statistics, Software Development Methodology and Cryptography-Public Key. 
 - 💞️ I’m looking to collaborate on any platform convinient for both ends.
 - 📫 How to reach me www.unplugged21.com
