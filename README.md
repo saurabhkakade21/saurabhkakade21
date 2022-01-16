@@ -2,7 +2,8 @@
 - 🌱 Passionate and experienced with Data Science skills to analyze data, create visualization, and make powerful AI/ML algorithms with Python language.
 - 🌱 2+ years of experience in programming languages like C, C++, Python, R, SQL, and Java with additional knowledge of large-scale data structures for big data.
 - 🌱 Also interested in software development, embedded system testing, software engineering, full stack developer, audio software engineer.
-- 📫 How to reach me www.unplugged21.com
+- 📫 LinkedIn Profile: https://www.linkedin.com/in/saurabhkakade21/
+- 📫 Personal Website: https://www.unplugged21.com
 
 <!---
 saurabhkakade21/saurabhkakade21 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
