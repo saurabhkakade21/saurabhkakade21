@@ -5,6 +5,9 @@
 - 🌱 8+ years of total work experience.
 - 📫 LinkedIn Profile: https://www.linkedin.com/in/saurabhkakade21/
 - 📫 Contact me: https://www.unplugged21.com
+- [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=saurabhkakade21&count_private=true&theme=tokyonight&showicons=true)]()
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=saurabhkakade21&langs_count=5&theme=tokyonight)]()
+
 
 <!---
 saurabhkakade21/saurabhkakade21 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
