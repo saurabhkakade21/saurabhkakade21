@@ -1,11 +1,11 @@
 - 👋 Hi, I’m @saurabhkakade21
-- 🌱 Passionate and experienced with Data Science skills to analyze data, create visualization, and make powerful AI/ML algorithms in Python language.
-- 🌱 2+ years of experience in programming languages like C, C++, Python, R, SQL, and Java with additional knowledge of large-scale data structures for big data.
-- 🌱 Also interested in software development, embedded system testing, software engineering, full stack developer, audio software engineer.
-- 🌱 8+ years of total work experience.
+- 🌱 • Passionate computer science engineer in Software Engineering (Audio C++) and Data Science
+- 🌱 • 2+ years of academic experience in languages like C, C++, Python, Java, and R
+- 🌱 • 8+ years of Audio Engineering in digital signal processing (DSP), and sound engineering (recording, mixing and mastering)
+- 🌱 • Also experienced in AI/ML technology, Parallel Programming, Unit Testing, Embedded Testing, Networking, & Gaming
+- 🌱 • 8+ years of total work experience.
 - 📫 LinkedIn Profile: https://www.linkedin.com/in/saurabhkakade21/
 - 📫 Contact me: https://www.unplugged21.com
-
   [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=saurabhkakade21&langs_count=5&theme=radical)]()
   ![Saurabh Kakade's GitHub stats](https://github-readme-stats.vercel.app/api?username=saurabhkakade21&show_icons=true&theme=radical)
   
