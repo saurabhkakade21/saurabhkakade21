@@ -9,7 +9,7 @@
 
 
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=saurabhkakade21&langs_count=5&theme=radical)]()
-[![Saurabh Kakade's GitHub stats](https://github-readme-stats.vercel.app/api?username=saurabhkakade21&show_icons=true&theme=radical)].()
+![Saurabh Kakade's GitHub stats](https://github-readme-stats.vercel.app/api?username=saurabhkakade21&show_icons=true&theme=radical)
   
 
 <!---
