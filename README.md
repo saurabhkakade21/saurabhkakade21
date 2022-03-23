@@ -1,9 +1,8 @@
 - 👋 Hi, I’m @saurabhkakade21
 - 🌱 • Passionate computer science engineer in Software Engineering (Audio C++) and Data Science
 - 🌱 • 2+ years of academic experience in languages like C, C++, Python, Java, and R
-- 🌱 • 8+ years of Audio Engineering in digital signal processing (DSP), and sound engineering (recording, mixing and mastering)
+- 🌱 • 8+ years of Audio Engineering in digital signal processing (DSP), and sound engineering
 - 🌱 • Also experienced in AI/ML technology, Parallel Programming, Unit Testing, Embedded Testing, Networking, & Gaming
-- 🌱 • 8+ years of total work experience.
 - 📫 LinkedIn Profile: https://www.linkedin.com/in/saurabhkakade21/
 - 📫 Contact me: https://www.unplugged21.com
 
