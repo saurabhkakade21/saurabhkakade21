@@ -1,8 +1,11 @@
 - 👋 Hi, I’m @saurabhkakade21
-- 🌱 • Passionate computer science engineer in Software Engineering (Audio C++) and Data Science
-- 🌱 • 2+ years of academic experience in languages like C, C++, Python, Java, and R
+- 🌱 • Passionate engineer for Software Engineering and Data Science
+- 🌱 • Currently working on developing an Audio Plugin with JUCE framework as a personal project
+- 🌱 • Specialized in C++11 skill sets for OOP (Inheritance/Polymorphism), STL, Concurrency, and Exception Handling
+- 🌱 • 2+ years of academic/project experience in languages like C, C++, Python, Java, and R
+- 🌱 • 8+ projects completed in software engineering, development, and AI/ML.
+- 🌱 • Also experienced in AI/ML, parallel programming, embedded testing, networking, & audio game programming
 - 🌱 • 8+ years of Audio Engineering in digital signal processing (DSP), and sound engineering
-- 🌱 • Also experienced in AI/ML technology, Parallel Programming, Unit Testing, Embedded Testing, Networking, & Gaming
 - 📫 LinkedIn Profile: https://www.linkedin.com/in/saurabhkakade21/
 - 📫 Contact me: https://www.unplugged21.com
 
