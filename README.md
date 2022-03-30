@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @saurabhkakade21
-- 🌱 • Passionate engineer for Software Engineering and Data Science
-- 🌱 • Currently working on developing an Audio Plugin with JUCE framework as a personal project
-- 🌱 • Specialized in C++11 skill sets for OOP (Inheritance/Polymorphism), STL, Concurrency, and Exception Handling
+- 🌱 • Passionate engineer for Software Engineering and Technologies.
+- 🌱 • Currently developing an audio plugin with JUCE framework to calculate the time signature of a song.
 - 🌱 • 2+ years of academic/project experience in languages like C, C++, Python, Java, and R
 - 🌱 • 8+ projects completed in software engineering, development, and AI/ML.
 - 🌱 • Also experienced in AI/ML, parallel programming, embedded testing, networking, & audio game programming
